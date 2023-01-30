@@ -1,5 +1,5 @@
 # jogo-pac-man
-# jogo-da-cobrinha
+
 ## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
